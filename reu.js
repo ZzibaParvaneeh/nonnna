@@ -17,7 +17,7 @@ root.render(<Football />);
   }
 
   return (
-    <button onClick={() => shoot("Goal!")}>Take the shot!</button>
+    <button onClick={() => shoot("Goal22!")}>Take the shot!</button>
   );
 }
 
