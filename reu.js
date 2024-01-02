@@ -9,7 +9,7 @@ function Football() {
 }
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(<Football />);
+root.render(<Footeeball />);
 
             function Football() {
   const shoot = (a) => {
