@@ -1,6 +1,6 @@
 function Football() {
   const shoot = () => {
-    alert("red head shwot!");
+    alert("red heads shwot!");
   }
 
   return (
