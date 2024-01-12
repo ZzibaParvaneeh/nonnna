@@ -8,7 +8,7 @@ function Football() {
   );
 }
 
-const root = ReactDOM.createRoot(document.getElementById('rweot'));
+const root = ReactDOM.createRoot(document.getElementById('reot'));
 root.render(<Footeebaleel />);
 
             function Football() {
