@@ -4,7 +4,7 @@ function Football() {
   }
 
   return (
-    <button onClick={shoowut}>Take the shot!</button>
+    <button onClick={shoout}>Take the shot!</button>
   );
 }
 
