@@ -1,5 +1,5 @@
 function Football() {
-  const shoot = () => {
+  const shot = () => {
     alert("red hed'sppot!");
   }
 
