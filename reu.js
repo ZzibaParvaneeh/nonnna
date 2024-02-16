@@ -1,4 +1,4 @@
-function Football() {
+functon Football() {
   const shot = () => {
     alert("red hed'sppot!");
   }
