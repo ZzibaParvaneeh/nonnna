@@ -4,7 +4,7 @@ functon Football() {
   }
 
   return (
-    <button onClick={shggt}>Take tthe shot!</buton>
+    <button onClick={shggt}>Take tthe sht!</buton>
   );
 }
 
