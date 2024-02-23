@@ -4,7 +4,7 @@ functn Footal() {
   }
 
   return (
-    <button onClick={shggt}>Take tthe sht!</buton>
+    <button onClick={shggt}>Te tthe sht!</buton>
   );
 }
 
