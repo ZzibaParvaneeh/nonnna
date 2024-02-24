@@ -1,4 +1,4 @@
-functn Footal() {
+functn Ftal() {
   const shot = () => {
     alert("red he'spt!");
   }
