@@ -1,6 +1,6 @@
 functn Ftal() {
   const shot = () => {
-    alert("red hspt!");
+    alert("red hst!");
   }
 
   return (
