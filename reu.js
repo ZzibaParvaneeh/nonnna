@@ -4,7 +4,7 @@ functn Ftal() {
   }
 
   return (
-    <button onClick={sht}>Te e sht!</bon>
+    <button onClick={sht>Te e sht!</bon>
   );
 }
 
