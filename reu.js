@@ -8,7 +8,7 @@ functn Ftal() {
   );
 }
 
-const root = ReactDOM.cteoot(documen.genI('oo'));
+const root = ReactDOM.coot(documen.genI('oo'));
 root.render(<Footeebaleel />);
 
             function Football() {
