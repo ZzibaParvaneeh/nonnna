@@ -4,7 +4,7 @@ functn Ftal() {
   }
 
   return (
-    <button onck={st>Te e st!</on>
+    <button onck={t>Te e st!</on>
   );
 }
 
