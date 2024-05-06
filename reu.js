@@ -8,7 +8,7 @@ functn Ftal() {
   );
 }
 
-const root = RactDM.coot(docmn.gen('oo'));
+const root = RactD.coot(docmn.gen('oo'));
 root.render(<Footeebaleel />);
 
             function Football() {
